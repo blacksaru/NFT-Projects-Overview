@@ -34,5 +34,17 @@ You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Toke
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
 - Github repo: <a href="https://github.com/best-lucky1030/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
   
+<h3><u><strong><i>Kingdom of Dwarves</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
   
+Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
+  
+- Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
+- Staking Link: <a href="http://16.170.178.222:3001" target="_blank">KCRWN Staking</a>
+  - users can reward according to their NFT rare
+  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
+- Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
+- Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
+  
+
   
