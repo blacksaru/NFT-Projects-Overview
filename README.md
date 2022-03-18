@@ -45,18 +45,5 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
 - Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
-  
-<h3><u><strong><i>BarnYard</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-  
-Solana Multi Collection NFT staking
-
-- Staking Link: <a href="https://barnyard-staking.vercel.app/" target="_blank">Barnyard Staking</a>
-  - Farmers and animals will act as multipliers for token generation when staking. Rarity of your NFTs, and amount staked will affect the multiplier!
-  - you will be able to stake your farm (at least one NFT from each collection) to start earning our project's own token($WHEAT) which will be used for gameplay in season 2. The more quantity of farmers/animals as well as higher rarities will generate you more tokens.
-  - Staking will be limited to 3 farmers and 3 animals per land plot.
-  - You will need to pay a 20% tax on each harvest to the bandits to harvest your wheat, or you can risk harvesting all your wheat (with a chance to lose all to bandits) but you will need to have staked for at least 3 days.
-- Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
-- Github repo: <a href="https://github.com/best-lucky1030/BCBY-NFT-staking" target="_blank">BCBY Staking</a>
-  
+ 
   
