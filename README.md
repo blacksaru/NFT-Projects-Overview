@@ -1,4 +1,4 @@
-# Blockchain Projects: (Solana / BSC)
+# Blockchain Projects: (Solana / BSC / EVM)
 
 You can find my past works here. Most of projects(repos) are in private status.
 
@@ -59,4 +59,33 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
 - Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
  
-  
+<h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+staking an SPL token "FLWR"
+
+- Link: <a href="https://dex.solflowers.io/stake-coins" target="_blank">FLWR Staking</a>
+  - number of flwr (spl-token) - 50/75/100%
+  - reward period/lock time  - 4/6/12 month
+  - interest  - 3%/6%/12%
+  - transaction fee - .1 sol
+  - penalties for early withdrawl - 6/12/24%
+- Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
+- Github repo : <a href="https://github.com/best-lucky1030/FLWR-staking" target="_blank">FLWR-staking</a>
+
+<h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
+<hr />
+
+Nifty Nanas.<br />
+Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
+This has Astronana and CoinFlip as well as Cro and Sol version for minting, staking, and launchpad.<br/>
+Now we are adding more features for Nanas.
+
+- Link: <a href="https://cronos-launchpad.herokuapp.com/" target="_blank">Cronos Launchpad</a>
+- Original Link: <a href="https://www.niftynanas.com/" target="_blank">Nifty Nanas</a>
+- Cro version: <a href="https://www.niftynanas.com/cro" target="_blank">Cro Nanas</a>
+- Sol version: <a href="https://www.niftynanas.com/sol" target="_blank">Sol Nanas</a>
+- Sol Staking: <a href="https://nana-website.vercel.app/" target="_blank">Staking Nanas</a>
+- Git repo: <a href="https://github.com/best-lucky1030/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
+
+
