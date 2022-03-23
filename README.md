@@ -64,7 +64,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 
 staking an SPL token "FLWR"
 
-- Link: <a href="https://agitated-roentgen-d0b7eb.netlify.app/stake-coins" target="_blank">FLWR Staking</a>
+- Link: <a href="https://flwr-staking.netlify.app/stake-coins" target="_blank">FLWR Staking</a>
   - number of flwr (spl-token) - 50/75/100%
   - reward period/lock time  - 4/6/12 month
   - interest  - 3%/6%/12%
