@@ -58,6 +58,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
 - Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
+- Kod Story: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
 <h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
