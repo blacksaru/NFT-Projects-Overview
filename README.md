@@ -41,7 +41,7 @@ Solana Multi Collection NFT staking
 Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
   
 - Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
-- Staking Link: <a href="http://16.170.178.222:3001" target="_blank">KCRWN Staking</a>
+- Staking Link: <a href="https://app.kingdomofdwarves.io/staking" target="_blank">KCRWN Staking</a>
   - users can reward according to their NFT rare
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
