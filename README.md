@@ -80,7 +80,7 @@ Now we are adding more features for Nanas.
 - Original Link: <a href="https://www.niftynanas.com/" target="_blank">Nifty Nanas</a>
 - Cro version: <a href="https://www.niftynanas.com/cro" target="_blank">Cro Nanas</a>
 - Sol version: <a href="https://www.niftynanas.com/sol" target="_blank">Sol Nanas</a>
-- Sol Staking: <a href="https://nana-website.vercel.app/" target="_blank">Staking Nanas</a>
+- Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
 - Git repo: <a href="https://github.com/best-lucky1030/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
 
 <h3><u><strong><i>Wild West Verse</i></strong></u> &nbsp;(Solana)</h3>
