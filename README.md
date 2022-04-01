@@ -101,3 +101,18 @@ You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Toke
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
 - Github repo: <a href="https://github.com/best-lucky1030/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
+
+<h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
+
+<!-- <img align="right" width="300px" src="https://pbs.twimg.com/profile_banners/1473019355826900999/1647540588/600x200"> -->
+<img align="right" width="300px" src="https://testnet.icon.fashion/homesec.png">
+
+IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashion NFTs. We celebrate women in the fashion and crypto space with special dress up experience, simulating a fashion styling game in the metaverse. In here, every woman can create their own iconic looks and rare outfits. Remeber, everyone can be a fashion icon!
+
+Now I am working on this project and we are releasing this in Apirl.
+
+- Testnet Link: <a href="https://testnet.icon.fashion" target="_blank">Icon Fashion</a>
+- Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>
+- Github repo: <a href="#">IconGirl</a>
+
