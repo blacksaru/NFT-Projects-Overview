@@ -39,7 +39,9 @@ Solana Multi Collection NFT staking
 <hr />
 
 Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
-  
+
+<img align="right" width="300px" src="https://miro.medium.com/max/700/1*1WI72-a1PAi388br4HaN5w.png">
+
 - Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
 - Staking Link: <a href="https://app.kingdomofdwarves.io/staking" target="_blank">KCRWN Staking</a>
   - users can reward according to their NFT rare
@@ -51,10 +53,12 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 <h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-staking an SPL token "FLWR"
+<img align="right" width="300px" src="https://dex.solflowers.io/images/content/nft-4.png">
 
-- Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
+Staking an SPL token "FLWR"
+
 <!-- - Link: <a href="https://flwr-staking.netlify.app/stake-coins" target="_blank">FLWR Staking</a> -->
+- Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
   - number of flwr (spl-token) - 50/75/100%
   - reward period/lock time  - 4/6/12 month
   - interest  - 3%/6%/12%
@@ -70,6 +74,7 @@ Nifty Nanas.<br />
 Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
 This has Astronana and CoinFlip as well as Cro and Sol version for minting, staking, and launchpad.<br/>
 Now we are adding more features for Nanas.
+<img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png">
 
 - Link: <a href="https://cronos-launchpad.herokuapp.com/" target="_blank">Cronos Launchpad</a>
 - Original Link: <a href="https://www.niftynanas.com/" target="_blank">Nifty Nanas</a>
@@ -80,11 +85,18 @@ Now we are adding more features for Nanas.
 
 <h3><u><strong><i>Wild West Verse</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
-  
+<img align="right" top="30" width="300px" src="https://pbs.twimg.com/media/FM33t89XsAEBI82?format=jpg&name=medium">
 You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Token or sell it on the market with the stakes you earn.
-  
+
 - Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
-  - RANK /DAILY PRIZE -> 1500-2000 /1$WWV, 1000-1499 /1.5$WWV, 600-999 /2$WWV, 300-599 /2.5$WWV, 200-299 /3$WWV, 51-199 /4$WWV, 1-50 /5$WWV
+  - RANK /DAILY PRIZE -> 
+    - 1500-2000 / 1 WWV, 
+    - 1000-1499 / 1.5$WWV, 
+    - 600-999 / 2WWV, 
+    - 300-599 / 2.5 WWV, 
+    - 200-299 / 3WWV, 
+    - 51-199 / 4 WWV, 
+    - 1-50 / 5 WWV
   - If your NFT is rarer you will get more staking reward.
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
