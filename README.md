@@ -116,3 +116,12 @@ Now I am working on this project and we are releasing this in Apirl.
 - Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>
 - Github repo: <a href="https://github.com/best-lucky1030/IconFashion" target="_blank">IconGirl</a>
 
+<h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/164783931-3169949e-1b57-436e-8da0-419c80dffc97.png">
+
+- Link: <a href="https://universe97.vercel.app" target="_blank">97 Universe</a>
+- 497 AI-androids called “97s” were created to compete with some of the greatest athletes on Earth. 97s were so good that humans no longer saw a reason to compete. After boredom struck, the 97s decided to leave Earth and test their skills against the universe. They built a space stadium where challengers from all over the galaxy can compete. Remaining undefeated the 97s decided to claim the universe, calling it “The 97 Universe”.
+- Github repo: <a href="https://github.com/best-lucky1030/Universe97" target="_blank">Universe97</a>
+
