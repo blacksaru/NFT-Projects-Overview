@@ -123,5 +123,6 @@ Now I am working on this project and we are releasing this in Apirl.
 
 - Link: <a href="https://universe97.vercel.app" target="_blank">97 Universe</a>
 - 497 AI-androids called “97s” were created to compete with some of the greatest athletes on Earth. 97s were so good that humans no longer saw a reason to compete. After boredom struck, the 97s decided to leave Earth and test their skills against the universe. They built a space stadium where challengers from all over the galaxy can compete. Remaining undefeated the 97s decided to claim the universe, calling it “The 97 Universe”.
+- Whitepaper: <a href="https://97-universe.gitbook.io/the-97-universe" target="_blank">Gitbook</a>
 - Github repo: <a href="https://github.com/best-lucky1030/Universe97" target="_blank">Universe97</a>
 
