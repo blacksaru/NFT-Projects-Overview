@@ -43,12 +43,12 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 <img align="right" width="300px" src="https://miro.medium.com/max/700/1*1WI72-a1PAi388br4HaN5w.png">
 
 - Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
-- Staking Link: <a href="https://app.kingdomofdwarves.io/staking" target="_blank">KCRWN Staking</a>
+- Staking Link: <a href="https://app.kingdomofdwarves.io/staking/v1" target="_blank">KCRWN Staking</a>
   - users can reward according to their NFT rare
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
 - Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
-- Kod Story: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
+- KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
 <h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
