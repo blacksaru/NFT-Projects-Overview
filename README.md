@@ -126,3 +126,15 @@ Now I am working on this project and we are releasing this in Apirl.
 - Whitepaper: <a href="https://97-universe.gitbook.io/the-97-universe" target="_blank">Gitbook</a>
 - Github repo: <a href="https://github.com/best-lucky1030/Universe97" target="_blank">Universe97</a>
 
+<h3><u><strong><i>Sol Spacemen</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/165689323-678d0769-eca2-429e-92e2-b97621100b71.png">
+
+- Link: <a href="https://www.solspacemen.com" target="_blank">Sol Spacemen</a>
+- Earth is quickly becoming uninhabitable and we need to begin deployment of the materials and resources needed to start construction in the Solanaverse
+- $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
+- You can find me at Team member page name is `Venture` as `Dev, Tokenomics and   Integration's`
+- Git repo: <a href="https://github.com/best-lucky1030/token-list" target="_blank">Space Parts</a>
+
+
