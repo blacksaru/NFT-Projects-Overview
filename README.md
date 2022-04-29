@@ -116,6 +116,20 @@ Now I am working on this project and we are releasing this in Apirl.
 - Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>
 - Github repo: <a href="https://github.com/best-lucky1030/IconFashion" target="_blank">IconGirl</a>
 
+<h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166076634-5edc5fdc-ac4f-4567-83ad-271a376885c9.png">
+
+This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$GBA token.
+
+- Link: <a href="https://aurora-staking.vercel.app" target="_blank">TAC NFT Staking</a>
+  - You can stake your TAC NFT.
+  - You will receive reward as 🍌$GBA calculated by 25 days.
+- Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $BGA|APe DAO</a>
+- Github repo: <a href="https://github.com/best-lucky1030/Aurora-staking" target="_blank">Aurora-staking</a>
+
+
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -136,5 +150,3 @@ Now I am working on this project and we are releasing this in Apirl.
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
 - Git repo: <a href="https://github.com/best-lucky1030/token-list" target="_blank">Space Parts</a>
-
-
