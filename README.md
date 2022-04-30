@@ -114,7 +114,7 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
 - Link: <a href="https://aurora-staking.vercel.app" target="_blank">TAC NFT Staking</a>
   - You can stake your TAC NFT.
   - You will receive reward as 🍌$GBA calculated by 25 days.
-- Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $BGA|APe DAO</a>
+- Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
 - Github repo: <a href="https://github.com/best-lucky1030/Aurora-staking" target="_blank">Aurora-staking</a>
 
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
