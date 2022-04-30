@@ -70,11 +70,12 @@ Staking an SPL token "FLWR"
 <h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
 <hr />
 
+<img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png">
+
 Nifty Nanas.<br />
 Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
 This has Astronana and CoinFlip as well as Cro and Sol version for minting, staking, and launchpad.<br/>
 Now we are adding more features for Nanas.
-<img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png">
 
 - Link: <a href="https://cronos-launchpad.herokuapp.com/" target="_blank">Cronos Launchpad</a>
 - Original Link: <a href="https://www.niftynanas.com/" target="_blank">Nifty Nanas</a>
