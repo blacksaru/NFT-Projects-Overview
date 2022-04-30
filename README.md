@@ -70,7 +70,8 @@ Staking an SPL token "FLWR"
 <h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png">
+<!-- <img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png"> -->
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166094198-58cbdbe6-182b-49db-bd2f-70b23432299f.png">
 
 Nifty Nanas.<br />
 Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
