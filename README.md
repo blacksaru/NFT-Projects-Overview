@@ -103,20 +103,6 @@ You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Toke
 - Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
 - Github repo: <a href="https://github.com/best-lucky1030/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
 
-<h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<!-- <img align="right" width="300px" src="https://pbs.twimg.com/profile_banners/1473019355826900999/1647540588/600x200"> -->
-<img align="right" width="300px" src="https://testnet.icon.fashion/homesec.png">
-
-IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashion NFTs. We celebrate women in the fashion and crypto space with special dress up experience, simulating a fashion styling game in the metaverse. In here, every woman can create their own iconic looks and rare outfits. Remeber, everyone can be a fashion icon!
-
-Now I am working on this project and we are releasing this in Apirl.
-
-- Testnet Link: <a href="https://testnet.icon.fashion" target="_blank">Icon Fashion</a>
-- Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>
-- Github repo: <a href="https://github.com/best-lucky1030/IconFashion" target="_blank">IconGirl</a>
-
 <h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
 <hr />
 
@@ -130,6 +116,40 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
 - Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $BGA|APe DAO</a>
 - Github repo: <a href="https://github.com/best-lucky1030/Aurora-staking" target="_blank">Aurora-staking</a>
 
+<h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166092522-f6b25eab-aefc-4278-9c2e-abd8f65712c0.png">
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🍂$REAP and $SOL.
+
+- Link: <a href="https://eu-raffle.vercel.app/raffle" target="_blank">EU Raffle</a>
+  - Payment method
+    - SOL
+    - $REAP (SPL token)
+  - Reward Type
+    - Reveive NFT
+    - Whitelist (Max value is 50)
+    - Tickets (Max value is 2000)
+- Original Links:
+  - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
+  - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
+  - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
+- Github repo: <a href="https://github.com/best-lucky1030/EU-raffle" target="_blank">EU-raffle</a>
+
+<h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
+
+<!-- <img align="right" width="300px" src="https://pbs.twimg.com/profile_banners/1473019355826900999/1647540588/600x200"> -->
+<img align="right" width="300px" src="https://testnet.icon.fashion/homesec.png">
+
+IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashion NFTs. We celebrate women in the fashion and crypto space with special dress up experience, simulating a fashion styling game in the metaverse. In here, every woman can create their own iconic looks and rare outfits. Remeber, everyone can be a fashion icon!
+
+Now I am working on this project and we are releasing this in Apirl.
+
+- Testnet Link: <a href="https://testnet.icon.fashion" target="_blank">Icon Fashion</a>
+- Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>
+- Github repo: <a href="https://github.com/best-lucky1030/IconFashion" target="_blank">IconGirl</a>
 
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
