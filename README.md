@@ -139,6 +139,31 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
 - Github repo: <a href="https://github.com/best-lucky1030/EU-raffle" target="_blank">EU-raffle</a>
 
+<h3><u><strong>Auction House</strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166192340-300d7d3b-5251-431e-91a6-e1c6235aeacd.png">
+
+This is the auction platform that users can bid with several 💵spl-tokens and the highest bidder(winner) will be receive the NFT.
+
+- Link: <a href="https://auction-doge.vercel.app/auction">Doge Auction</a>
+- Online link: <a href="https://auction-house-tau.vercel.app/auction">Auction House</a>
+  - Payment method
+    - SOL
+    - Various SPL tokens
+  - Reward Type
+    - NFT
+- Official Links:
+  - Website: <a href="https://www.thedogecapital.com">Doge Capital:</a>
+  - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
+  - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
+  - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
+- Github repo: <a href="https://github.com/best-lucky1030/auction-doge">auction-doge</a>
+  - Project Structure:
+    - Auction contract
+    - Auction api
+    - Front-end
+
 <h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
 
