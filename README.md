@@ -34,8 +34,39 @@ Solana Multi Collection NFT staking
   - You will need to pay a 20% tax on each harvest to the bandits to harvest your wheat, or you can risk harvesting all your wheat (with a chance to lose all to bandits) but you will need to have staked for at least 3 days.
 - Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
 - Github repo: <a href="https://github.com/best-lucky1030/BCBY-NFT-staking" target="_blank">BCBY Staking</a> -->
-  
-<h3><u><strong><i>Kingdom of Dwarves</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/167239937-327a2413-13c1-4828-9f40-be240d40d42e.png">
+
+A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB that is earned along with any multiplier bonus are outlined below. 
+
+- Demo: <a href="https://basc-nft-staking.vercel.app">BASC NFT Staking</a>
+- Live Link: <a href="https://basc-staking-fe.vercel.app">BASC NFT Staking</a>
+  - Functionality
+    - Stake / Unstake All NFTs - for each tab, Matching Pairs, Pairs, Individual
+    - Claim All Rewards - if these have to be separated by individual staked vs. pairs staked that is ok
+  - Rarity Multiplier
+    - Baby Ape
+      - Rank < 13 = 100 $DAB/day
+      - Rank < 1,000 = 15 $DAB/day
+      - Rank >= 1,000 = 10 $DAB/day
+    - Baby Tiger
+      - Rank < 13 = 20 $DAB/day
+      - Rank < 1,000 = 3 $DAB/day
+      - Rank >= 1,000 = 2 $DAB/day
+  - Pair Multiplier
+    - Matching Baby Ape + Baby Tiger
+      - 25% bonus on the sum of the rarity multiplier.
+  - Other:
+    - Retrieve associated wallets for NFTs staked. 
+    - Retrieve # of matching pairs staked
+    - Retrieve number of apes staked
+    - Retrieve number of tigers staked
+- Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
+- Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
+
+<h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
@@ -67,56 +98,6 @@ Staking an SPL token "FLWR"
   - penalties for early withdrawl - 6/12/24%
 - Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
 - Github repo : <a href="https://github.com/best-lucky1030/FLWR-staking" target="_blank">FLWR-staking</a>
-
-<h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
-<hr />
-
-<!-- <img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png"> -->
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166094198-58cbdbe6-182b-49db-bd2f-70b23432299f.png">
-
-Nifty Nanas.<br />
-Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
-This has Astronana and CoinFlip as well as Cro and Sol version for minting, staking, and launchpad.<br/>
-Now we are adding more features for Nanas.
-
-- Link: <a href="https://cronos-launchpad.herokuapp.com/" target="_blank">Cronos Launchpad</a>
-- Original Link: <a href="https://www.niftynanas.com/" target="_blank">Nifty Nanas</a>
-- Cro version: <a href="https://www.niftynanas.com/cro" target="_blank">Cro Nanas</a>
-- Sol version: <a href="https://www.niftynanas.com/sol" target="_blank">Sol Nanas</a>
-- Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
-- Git repo: <a href="https://github.com/best-lucky1030/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
-
-<h3><u><strong><i>Wild West Verse</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-<img align="right" top="30" width="300px" src="https://pbs.twimg.com/media/FM33t89XsAEBI82?format=jpg&name=medium">
-You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Token or sell it on the market with the stakes you earn.
-
-- Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
-  - RANK /DAILY PRIZE -> 
-    - 1500-2000 / 1 WWV, 
-    - 1000-1499 / 1.5$WWV, 
-    - 600-999 / 2WWV, 
-    - 300-599 / 2.5 WWV, 
-    - 200-299 / 3WWV, 
-    - 51-199 / 4 WWV, 
-    - 1-50 / 5 WWV
-  - If your NFT is rarer you will get more staking reward.
-  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
-- Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-- Github repo: <a href="https://github.com/best-lucky1030/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
-
-<h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166076634-5edc5fdc-ac4f-4567-83ad-271a376885c9.png">
-
-This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$GBA token.
-
-- Link: <a href="https://aurora-staking.vercel.app" target="_blank">TAC NFT Staking</a>
-  - You can stake your TAC NFT.
-  - You will receive reward as 🍌$GBA calculated by 25 days.
-- Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Aurora-staking" target="_blank">Aurora-staking</a>
 
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -163,6 +144,56 @@ This is the auction platform that users can bid with several 💵spl-tokens and 
     - Auction contract
     - Auction api
     - Front-end
+
+<h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
+<hr />
+
+<!-- <img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png"> -->
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166094198-58cbdbe6-182b-49db-bd2f-70b23432299f.png">
+
+Nifty Nanas.<br />
+Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
+This has Astronana and CoinFlip as well as Cro and Sol version for minting, staking, and launchpad.<br/>
+Now we are adding more features for Nanas.
+
+- Link: <a href="https://cronos-launchpad.herokuapp.com/" target="_blank">Cronos Launchpad</a>
+- Original Link: <a href="https://www.niftynanas.com/" target="_blank">Nifty Nanas</a>
+- Cro version: <a href="https://www.niftynanas.com/cro" target="_blank">Cro Nanas</a>
+- Sol version: <a href="https://www.niftynanas.com/sol" target="_blank">Sol Nanas</a>
+- Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
+- Git repo: <a href="https://github.com/best-lucky1030/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
+
+<h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+<img align="right" top="30" width="300px" src="https://pbs.twimg.com/media/FM33t89XsAEBI82?format=jpg&name=medium">
+You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Token or sell it on the market with the stakes you earn.
+
+- Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
+  - RANK /DAILY PRIZE -> 
+    - 1500-2000 / 1 WWV, 
+    - 1000-1499 / 1.5$WWV, 
+    - 600-999 / 2WWV, 
+    - 300-599 / 2.5 WWV, 
+    - 200-299 / 3WWV, 
+    - 51-199 / 4 WWV, 
+    - 1-50 / 5 WWV
+  - If your NFT is rarer you will get more staking reward.
+  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
+- Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
+- Github repo: <a href="https://github.com/best-lucky1030/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
+
+<h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166076634-5edc5fdc-ac4f-4567-83ad-271a376885c9.png">
+
+This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$GBA token.
+
+- Link: <a href="https://aurora-staking.vercel.app" target="_blank">TAC NFT Staking</a>
+  - You can stake your TAC NFT.
+  - You will receive reward as 🍌$GBA calculated by 25 days.
+- Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
+- Github repo: <a href="https://github.com/best-lucky1030/Aurora-staking" target="_blank">Aurora-staking</a>
 
 <h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
 <hr />
