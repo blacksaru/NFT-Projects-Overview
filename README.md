@@ -1,6 +1,6 @@
 # Blockchain Projects: (Solana / BSC / EVM)
 
-You can find my past works here. Most of projects(repos) are in private status.
+As you can see here, I have built several NFT projects including minting, staking, breeding features, raffle/auction houses, Launchpad, Marketplace and made smart contracts and utility tokens. All of repos are under private status.
 
 <!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -58,11 +58,7 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
   - Pair Multiplier
     - Matching Baby Ape + Baby Tiger
       - 25% bonus on the sum of the rarity multiplier.
-  - Other:
-    - Retrieve associated wallets for NFTs staked. 
-    - Retrieve # of matching pairs staked
-    - Retrieve number of apes staked
-    - Retrieve number of tigers staked
+- Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
 - Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
 
