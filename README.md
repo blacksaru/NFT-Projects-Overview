@@ -186,6 +186,7 @@ You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Toke
 This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$GBA token.
 
 - Link: <a href="https://aurora-staking.vercel.app" target="_blank">TAC NFT Staking</a>
+- Live link: <a href="https://www.apearena.online">TAC Staking</a>
   - You can stake your TAC NFT.
   - You will receive reward as 🍌$GBA calculated by 25 days.
 - Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
