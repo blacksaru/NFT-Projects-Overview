@@ -107,7 +107,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
     - SOL
     - $REAP (SPL token)
   - Reward Type
-    - Reveive NFT
+    - Receive NFT
     - Whitelist (Max value is 50)
     - Tickets (Max value is 2000)
 - Original Links:
