@@ -116,6 +116,24 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
 - Github repo: <a href="https://github.com/best-lucky1030/EU-raffle" target="_blank">EU-raffle</a>
 
+<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169693981-4d975746-0d21-4342-9e84-12caa7b8445f.png">
+
+- Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
+- Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
+  - Payment method
+    - $SOL, $BOOGA, $ZION
+  - Reward Type
+    - Receive NFT, WL spots(max: 50)
+- Original Links:
+  - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
+  - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
+- Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
+
 <h3><u><strong>Auction House</strong></u> &nbsp;(Solana)</h3>
 <hr />
 
