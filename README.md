@@ -121,7 +121,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169693981-4d975746-0d21-4342-9e84-12caa7b8445f.png">
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/169970030-277f578c-d25a-450b-bc40-71767f818df5.png">
 
 - Link: <a href="https://metakongz-raffle-auction.vercel.app/raffle" target="_blank">MetaKongz Raffle</a>
 - Live Link: <a href="https://metakongz-metamart.vercel.app">MetaKongz Raffle</a>
