@@ -137,15 +137,14 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 <h3><u><strong>Auction House</strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166192340-300d7d3b-5251-431e-91a6-e1c6235aeacd.png">
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170251173-46f1bc8c-fb86-48c9-ad8e-7af68c43f5e8.png">
 
 This is the auction platform that users can bid with several 💵spl-tokens and the highest bidder(winner) will be receive the NFT.
 
 - Link: <a href="https://auction-doge.vercel.app/auction">Doge Auction</a>
 - Online link: <a href="https://mausoleum.tombstoned.xyz">The Mausolem Auction</a>
   - Payment method
-    - SOL
-    - Various SPL tokens
+    - SOL, Various SPL tokens
   - Reward Type
     - NFT
 - Official Links:
@@ -155,9 +154,7 @@ This is the auction platform that users can bid with several 💵spl-tokens and 
   - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
 - Github repo: <a href="https://github.com/best-lucky1030/auction-doge">auction-doge</a>
   - Project Structure:
-    - Auction contract
-    - Auction api
-    - Front-end
+    - Auction contract, Api, Front-end
 
 <h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
 <hr />
