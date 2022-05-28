@@ -160,7 +160,7 @@ This is the auction platform that users can bid with several 💵spl-tokens and 
 <hr />
 
 <!-- <img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png"> -->
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166094198-58cbdbe6-182b-49db-bd2f-70b23432299f.png">
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170817948-05918b2a-9c26-46cc-97c7-b6cf1c287241.png">
 
 Nifty Nanas.<br />
 Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
@@ -172,6 +172,8 @@ Now we are adding more features for Nanas.
 - Cro version: <a href="https://www.niftynanas.com/cro" target="_blank">Cro Nanas</a>
 - Sol version: <a href="https://www.niftynanas.com/sol" target="_blank">Sol Nanas</a>
 - Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
+  (Current Staking is updating.... so It's down now)
+  
 - Git repo: <a href="https://github.com/best-lucky1030/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
 
 <h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
