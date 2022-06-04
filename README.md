@@ -71,17 +71,20 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍�
 
 - Demo: <a href="http://astronaut-nft-staking-death.vercel.app">Astronaut Staking</a>
 - Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a>
-- Model 1: 
-  - If you claim before 15 days, you will receive 75% and after 15 days, will receive 100%.
-    - Adventurer: 20 $coin a day 
-    - Scientist: 25 $coin a day 
-    - Doctor: 30 coin a day 
-    - Mission Specialist: 35 $coin a day 
-    - Commander: 40 $coin a day
--  Model 2 
-  - Rewards are paid daily and they are the same for all NFTS, so x $coin a day for everything 
-- Model 3 
-  - 7 days x $coin, 14 days 1.5x $coin, 30 days+ 2x $coin
+  - Model 1: 
+    - If you claim before 15 days, you will receive 75% and after 15 days, will receive 100%.
+      - Adventurer: 20 $coin a day 
+      - Scientist: 25 $coin a day 
+      - Doctor: 30 coin a day 
+      - Mission Specialist: 35 $coin a day 
+      - Commander: 40 $coin a day
+  - Model 2
+    - Rewards are paid daily and they are the same for all NFTS, so x $coin a day for everything
+  - Model 3 
+    - 7 days x $coin, 14 days 1.5x $coin, 30 days+ 2x $coin
+- Official Links:
+  - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
+  - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
 - Github repo: <a href="https://github.com/best-lucky1030/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
