@@ -37,9 +37,9 @@ Solana Multi Collection NFT staking
 <h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/167239937-327a2413-13c1-4828-9f40-be240d40d42e.png">
-
 A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (2) stake a Baby Tiger and (3) stake a matching pair. The details on the amount of $DAB that is earned along with any multiplier bonus are outlined below. 
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/167239937-327a2413-13c1-4828-9f40-be240d40d42e.png">
 
 - Demo: <a href="https://basc-nft-staking.vercel.app">BASC NFT Staking</a>
 - Live Link: <a href="https://basc-staking-fe.vercel.app">BASC NFT Staking</a>
@@ -61,6 +61,28 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 - Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
 - Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
+
+<h3><u><strong><i>Astronaut NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍🚀 NFT collections
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998607-ee9dee1f-58e2-470f-8976-5d36e3d17fc0.png">
+
+- Demo: <a href="http://astronaut-nft-staking-death.vercel.app">Astronaut Staking</a>
+- Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a>
+- Model 1: 
+  - If you claim before 15 days, you will receive 75% and after 15 days, will receive 100%.
+    - Adventurer: 20 $coin a day 
+    - Scientist: 25 $coin a day 
+    - Doctor: 30 coin a day 
+    - Mission Specialist: 35 $coin a day 
+    - Commander: 40 $coin a day
+-  Model 2 
+  - Rewards are paid daily and they are the same for all NFTS, so x $coin a day for everything 
+- Model 3 
+  - 7 days x $coin, 14 days 1.5x $coin, 30 days+ 2x $coin
+- Github repo: <a href="https://github.com/best-lucky1030/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -134,6 +156,25 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
 - Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
 
+<h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using $PREY and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998195-6616ae2e-90a8-44e4-946f-65f49e25ff20.png">
+
+- Demo: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
+- Live: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
+  - Payment method
+    - $SOL, $PREY (SPL token)
+  - Reward Type
+    - Receive NFT, WL spots(max: 50), Reward Token
+- Official Links:
+  - Linktree: <a href="https://linktr.ee/ApexPredatorsSOL">Apex Predator | Linktree</a>
+  - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
+  - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
+- Github repo: <a href="https://github.com/best-lucky1030/Apex-Raffle">Apex-Raffle</a>
+
 <h3><u><strong>Auction House</strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -178,8 +219,8 @@ Now we are adding more features for Nanas.
 
 <h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
+
 <img align="right" top="30" width="300px" src="https://pbs.twimg.com/media/FM33t89XsAEBI82?format=jpg&name=medium">
-You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Token or sell it on the market with the stakes you earn.
 
 - Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
   - RANK /DAILY PRIZE -> 
