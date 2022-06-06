@@ -1,6 +1,6 @@
 # Blockchain Projects: (Solana / BSC / EVM)
 
-As you can see here, I have built several NFT projects including minting, staking, breeding features, raffle/auction houses, Launchpad, Marketplace and made smart contracts and utility tokens. All of repos are under private status.
+As you can see here, I have built several NFT projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
 
 <!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
