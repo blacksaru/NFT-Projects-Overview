@@ -262,7 +262,7 @@ IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashi
 
 Now I am working on this project and we are releasing this in Apirl.
 
-- Testnet Link: <a href="https://testnet.icon.fashion" target="_blank">Icon Fashion</a>
+- Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
 - Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>
 - Github repo: <a href="https://github.com/best-lucky1030/IconFashion" target="_blank">IconGirl</a>
 
