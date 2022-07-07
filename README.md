@@ -42,7 +42,7 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/167239937-327a2413-13c1-4828-9f40-be240d40d42e.png">
 
 - Demo: <a href="https://basc-nft-staking.vercel.app">BASC NFT Staking</a>
-- Live Link: <a href="https://basc-staking-fe.vercel.app">BASC NFT Staking</a>
+- Live Link: <a href="https://stakingv2.babyapesocialclub.com">BASC NFT Staking</a>
   - Functionality
     - Stake / Unstake All NFTs - for each tab, Matching Pairs, Pairs, Individual
     - Claim All Rewards - if these have to be separated by individual staked vs. pairs staked that is ok
