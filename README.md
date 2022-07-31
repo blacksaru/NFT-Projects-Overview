@@ -123,9 +123,9 @@ Staking an SPL token "FLWR"
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166092522-f6b25eab-aefc-4278-9c2e-abd8f65712c0.png">
-
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🍂$REAP and $SOL.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/182041823-ea6fcd55-db77-4ed5-a71f-b9d846ed9887.png">
 
 - Link: <a href="https://eu-raffle.vercel.app/raffle" target="_blank">EU Raffle</a>
   - Payment method
