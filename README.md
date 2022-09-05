@@ -88,7 +88,7 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍�
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998607-ee9dee1f-58e2-470f-8976-5d36e3d17fc0.png">
 
 - Demo: <a href="http://astronaut-nft-staking-death.vercel.app">Astronaut Staking</a>
-- Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a>
+- Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a> &nbsp;Moved here: <a href="https://hub.yaku.ai/yaku/staking">Yaku Staking</a>
   - Model 1: 
     - If you claim before 15 days, you will receive 75% and after 15 days, will receive 100%.
       - Adventurer: 20 $coin a day 
@@ -103,6 +103,7 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut👨🏿‍�
 - Official Links:
   - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
+  - Moved to this link: <a href="https://hub.yaku.ai">Yaku Hub</a>
 - Github repo: <a href="https://github.com/best-lucky1030/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
@@ -113,7 +114,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 <img align="right" width="300px" src="https://miro.medium.com/max/700/1*1WI72-a1PAi388br4HaN5w.png">
 
 - Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
-- Staking Link: <a href="https://app.kingdomofdwarves.io/staking/v1" target="_blank">KCRWN Staking</a>
+- Staking Link: <a href="https://app.kingdomofdwarves.io/staking" target="_blank">KCRWN Staking</a>
   - users can reward according to their NFT rare
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
