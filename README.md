@@ -139,6 +139,31 @@ Staking an SPL token "FLWR"
 - Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
 - Github repo : <a href="https://github.com/best-lucky1030/FLWR-staking" target="_blank">FLWR-staking</a>
 
+<h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/196169486-e51ed813-aa69-4318-ba04-cf010d488b4a.png">
+
+This is the raffle project that winners can receive the raffle NFT by buying tickets. You can buy tickets by $Sol and various tokens($FLWR, $SHDW, $DUST, $BOLT).
+
+- Link: <a href="http://raffle-auction-brains.vercel.app">Sol Flowers Raffle</a>
+- Live Link: <a href="https://raffle.solflowers.io/raffle">Sol Flowers | Raffle</a>
+  - Payment method
+    - $SOL, $FLWR, $SHDW, $DUST, $BOLT
+  - Reward Type
+    - Receive NFT, WL spots(max: 50)
+- Offical Links:
+  - Website: <a href="https://www.solflowers.io">SOL Flowers</a>
+  - Twitter: <a href="https://twitter.com/solflowers_io">Sol flowers</a>
+  - Magic Eden: <a href="https://magiceden.io/creators/sol_flowers">Magic Eden link</a>
+  - White Paper: <a href="https://www.solflowers.io/src/assets/files/Whitepaper.pdf">White Paper</a>
+  - Staking: <a href="https://flwrstaking.solflowers.io">Flower Staking</a>
+  - Game: <a href="https://drobro.io">Game</a>
+  - Buy $Flwr <a href="https://raydium.io/swap/?from=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&to=FLWRna1gxehQ9pSyZMzxfp4UhewvLPwuKfdUTgdZuMBY">Buy $Flwr</a>
+  - Farm $Flwr <a href="https://raydium.gitbook.io/raydium/yield-farming/raydium-farms">Farm $Flwr</a>
+- Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-brains-">Sol flowers raffle</a>
+
+
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
 
