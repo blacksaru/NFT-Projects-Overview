@@ -124,7 +124,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 <h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://dex.solflowers.io/images/content/nft-4.png">
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/201804913-14357891-d1cb-4147-b487-f7778c68bb36.png">
 
 Staking an SPL token "FLWR"
 
