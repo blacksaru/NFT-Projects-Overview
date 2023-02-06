@@ -35,6 +35,16 @@ Solana Multi Collection NFT staking
 - Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
 - Github repo: <a href="https://github.com/best-lucky1030/BCBY-NFT-staking" target="_blank">BCBY Staking</a> -->
 
+<h3><u><strong><i>Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/216958316-c79a05c7-fcf4-4cd6-acb6-2f086e90a6da.png">
+
+This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
+
+- Demo: <a href="https://coin-flip-solkitty.vercel.app">Deezkits CoinFlip</a>
+- Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
+- Github repo: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">coin-flip-solkitty</a>
 
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
