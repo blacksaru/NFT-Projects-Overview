@@ -54,7 +54,7 @@ This is mint website on avalanche network. I used Solidity(ERC 721) to write sma
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/209906661-40d7a303-d0ae-4bf8-a3ca-b159927d72ab.png">
 
 - Demo: <a href="https://avalanche-nft-mint.vercel.app">Plunder The Void</a>
-- Live: <a href="">Plunder The Void</a>
+- Live: <a href="https://plunderthevoid.io">Plunder The Void</a>
   - Functionality
     - 500 NFTs
     - Mint price is 100 USDC
