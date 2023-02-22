@@ -42,7 +42,7 @@ Solana Multi Collection NFT staking
 
 This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
 
-- Demo: <a href="https://coin-flip-solkitty.vercel.app">Deezkits CoinFlip</a>
+- Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
 - Github repo: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">coin-flip-solkitty</a>
 
