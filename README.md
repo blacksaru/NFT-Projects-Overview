@@ -116,9 +116,9 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 <h3><u><strong><i>Astronaut NFT Staking -> YAKU Hub</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨🏿‍🚀 NFT collections
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/222485565-17b0577f-4dc3-4e35-b1b0-033569bd19bc.png">
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/197718144-92c93e1c-c296-4113-8dab-6ce306584f85.png">
+Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨🏿‍🚀 NFT collections.
 
 - Demo: <a href="http://astronaut-nft-staking-death.vercel.app">Astronaut Staking</a>
 - Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a> &nbsp;Moved here: <a href="https://hub.yaku.ai/yaku/staking">Yaku Staking</a>
