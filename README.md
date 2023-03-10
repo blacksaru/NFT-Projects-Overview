@@ -35,6 +35,30 @@ Solana Multi Collection NFT staking
 - Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
 - Github repo: <a href="https://github.com/best-lucky1030/BCBY-NFT-staking" target="_blank">BCBY Staking</a> -->
 
+
+
+
+
+
+
+
+<h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
+
+This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi. 😜.
+
+Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
+
+- Live: <a href="https://degentaxi.io">Degen Taxi</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/best-lucky1030/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
+  - smart contract repo: <a href="https://github.com/best-lucky1030/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
+  - frontend repo: <a href="https://github.com/best-lucky1030/degen-taxi-frontend">degen-taxi-frontend</a>
+
+
+
 <h3><u><strong><i>Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -45,6 +69,8 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 - Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
 - Github repo: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">coin-flip-solkitty</a>
+
+
 
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
