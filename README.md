@@ -163,7 +163,7 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨�
   - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
   - Moved to this link: <a href="https://hub.yaku.ai">Yaku Hub</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
+- Github repo: <a href="https://github.com/best-lucky1030/Astronaut-NFT-Staking-death](https://github.com/Aurora0116/Solana-NFT-overview">Astronaut-NFT-Staking-death</a>
 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
