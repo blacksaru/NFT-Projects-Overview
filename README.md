@@ -180,7 +180,7 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 - Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
 - KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
-<h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>FLWR Token Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/201804913-14357891-d1cb-4147-b487-f7778c68bb36.png">
@@ -215,11 +215,9 @@ This is the raffle project that winners can receive the raffle NFT by buying tic
   - Website: <a href="https://www.solflowers.io">SOL Flowers</a>
   - Twitter: <a href="https://twitter.com/solflowers_io">Sol flowers</a>
   - Magic Eden: <a href="https://magiceden.io/creators/sol_flowers">Magic Eden link</a>
-  - White Paper: <a href="https://www.solflowers.io/src/assets/files/Whitepaper.pdf">White Paper</a>
-  - Staking: <a href="https://flwrstaking.solflowers.io">Flower Staking</a>
-  - Game: <a href="https://drobro.io">Game</a>
+  - White Paper: <a href="https://drive.google.com/file/d/1wr9q5HmfVcLoqDKasxQFHxzN4gF_KlE9/view">White Paper</a>
+  - Staking: <a href="https://staking.solflowers.io">SOL Flower Staking</a>
   - Buy $Flwr <a href="https://raydium.io/swap/?from=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&to=FLWRna1gxehQ9pSyZMzxfp4UhewvLPwuKfdUTgdZuMBY">Buy $Flwr</a>
-  - Farm $Flwr <a href="https://raydium.gitbook.io/raydium/yield-farming/raydium-farms">Farm $Flwr</a>
 - Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-brains-">Sol flowers raffle</a>
 
 
