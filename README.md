@@ -1,6 +1,6 @@
-# Blockchain Projects: (Solana / Ethereum / Binance - EVM / NEAR)
+# <i>Blockchain Projects on EVM(Ethereum, Binance, Avalanche, Polygon, Aurora) and Solana.</i>
 
-As you can see here, I have built several NFT projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
+As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
 <!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -38,6 +38,25 @@ Solana Multi Collection NFT staking
 
 
 
+
+
+
+
+<h3><u><strong><i>Monopoly</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+This is a decentralised and multiplayer board-game called `Monopoly` on the Solana blockchain.
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/230545726-10326060-c540-4801-ad99-295ef78ca202.png">
+
+Users must get `$Java` to play and roll the dice. And users can stake/unstake NFTs are called as CnC(Coffe and Crypto).
+I attended this project and wrote smart contract and worked on back-end/front-end integration sides.
+
+- Live: <a href="https://www.monopoly.cafe">Monopoly</a>
+- Github repos: 
+  - smart contract repo: <a href="https://github.com/best-lucky1030/monopoly-program">monopoly-program</a>
+  - backend repo: <a href="https://github.com/best-lucky1030/monopoly-backend">monopoly-backend</a>
+  - frontend repo: <a href="https://github.com/best-lucky1030/monopoly-frontend">monopoly-frontend</a>
 
 
 
@@ -189,7 +208,7 @@ Staking an SPL token "FLWR"
 
 <!-- - Link: <a href="https://flwr-staking.netlify.app/stake-coins" target="_blank">FLWR Staking</a> -->
 - Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
-- Live Link: <a href="https://flwrstaking.solflowers.io">SOL Flowers Staking</a>
+- Live Link: <a href="https://www.solflowers.io">SOL Flowers Staking</a>
   - number of flwr (spl-token) - 50/75/100%
   - reward period/lock time  - 4/6/12 month
   - interest  - 3%/6%/12%
