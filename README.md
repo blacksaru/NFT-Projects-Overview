@@ -50,7 +50,7 @@ This is a decentralised and multiplayer board-game called `Monopoly` on the Sola
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/230545726-10326060-c540-4801-ad99-295ef78ca202.png">
 
 Users must get `$Java` to play and roll the dice. And users can stake/unstake NFTs are called as CnC(Coffe and Crypto).
-I attended this project and wrote smart contract and worked on back-end/front-end integration sides.
+I attended this project and wrote smart contract and supported on back-end/front-end integration sides.
 
 - Live: <a href="https://www.monopoly.cafe">Monopoly</a>
 - Github repos: 
