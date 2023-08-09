@@ -1,6 +1,6 @@
-# <i>Blockchain Projects on EVM(Ethereum, Binance, Avalanche, Polygon, Aurora) and Solana.</i>
+# <i>Blockchain Projects on EVM(Ethereum, Binance, Avalanche, Polygon, Aurora), Solana, Cardano, and so on.</i>
 
-As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, etc). All of repos are under private status.
+As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, slot, etc). All of repos are under private status.
 
 <!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
