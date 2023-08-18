@@ -60,6 +60,26 @@ I attended this project and wrote smart contract and supported on back-end/front
 
 
 
+<h3><u><strong><i>Adaki Dashboard</i></strong></u> &nbsp;(Cardano)</h3>
+<hr />
+
+<p align="right">Adaki Dashboard</p>
+<img align="right" width="300px" src="https://github.com/venture1981/NFT-Projects-Overview/assets/89365150/409ebe18-cc00-402e-a5f3-aa111411737f.png">
+
+This is Adaki Dashboard on Cardano network:
+
+Adaki is a web3 brand and NFT platform built on the Cardano Blockchain. Our name is derived from ADA (the currency of the Cardano Blockchain) and KI, which means "energy" in Japanese. We aim to bring creative energy to the world of blockchain technology and build a community of passionate individuals who share our vision.
+
+<p align="right">Adaki Website</p>
+<img align="right" width="300px" src="https://github.com/venture1981/NFT-Projects-Overview/assets/89365150/be6b3f10-c5c6-49ed-bd84-36df9cf79411.png">
+
+- Live: <a href="https://dashboard.adaki.io">Adaki | Dashboard</a>
+- Git repo: <a href="https://github.com/venture1981/adaki-dasboard">adaki-dasboard</a>
+- Social links:
+  - website: <a href="https://adaki.io">Adaki</a>
+  - twitter: <a href="https://twitter.com/AdakiNFT">AdakiNFT</a>
+  - collection: <a href="https://www.jpg.store/collection/adakievents">Adaki | Event Collections NFTs</a>
+
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
