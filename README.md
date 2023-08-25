@@ -38,7 +38,26 @@ Solana Multi Collection NFT staking
 
 
 
+<h3><u><strong><i>Rafldex</i></strong></u> &nbsp;(Ethereum)</h3>
+<hr />
 
+This is raffle project has single & multi raffles on Ethereum network.
+<img align="right" width="300px" src="https://github.com/venture1981/NFT-Projects-Overview/assets/89365150/7c9e95c7-1cbd-45eb-89f0-7b2ebebafc28.png">
+
+Rafldex is revolutionizing the world of raffles by providing a unique blend of official centralized draws and personalized, user-generated raffles.
+With our state-of-the-art booking system, Rafldex empowers users to create their own NFT raffles, offering a novel approach to liquidity that goes beyond the traditional WETH-based NFT market model.
+
+Our platform taps into the power of decentralization, taking advantage of the blockchain's transparency and reliability to ensure fair and trustless raffle processes.
+By utilizing blockchain technology (chain link's randomiser), we grant power back to the users, providing an open, democratic platform where everyone has an equal opportunity to succeed.
+
+Rafldex is more than just a raffle platform - it's a hub for cross-community integration, a melting pot for diverse NFT communities to interact, share, and grow together.
+This vibrant ecosystem encourages engagement and fosters a super NFT community that breaks down the boundaries of individual projects.
+
+I attended this project as front-end/web3 developer and I used Next.js and Wagmi for this.
+
+- Live: <a href="https://www.rafldex.io">Rafldex</a>
+- Github repo: <a href="https://github.com/venture1981/God-Hates-NFTees-CLUB-raffle">God-Hates-NFTees-CLUB-raffle</a>
+- Twitter: <a href="https://twitter.com/@rafldex">Rafldex</a>
 
 
 
