@@ -47,7 +47,7 @@ This is raffle project has single & multi raffles on Ethereum network.
 Rafldex is revolutionizing the world of raffles by providing a unique blend of official centralized draws and personalized, user-generated raffles.
 With our state-of-the-art booking system, Rafldex empowers users to create their own NFT raffles, offering a novel approach to liquidity that goes beyond the traditional WETH-based NFT market model.
 
-Our platform taps into the power of decentralization, taking advantage of the blockchain's transparency and reliability to ensure fair and trustless raffle processes.
+This platform taps into the power of decentralization, taking advantage of the blockchain's transparency and reliability to ensure fair and trustless raffle processes.
 By utilizing blockchain technology (chain link's randomiser), we grant power back to the users, providing an open, democratic platform where everyone has an equal opportunity to succeed.
 
 Rafldex is more than just a raffle platform - it's a hub for cross-community integration, a melting pot for diverse NFT communities to interact, share, and grow together.
