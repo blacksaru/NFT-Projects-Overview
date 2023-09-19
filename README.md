@@ -2,38 +2,38 @@
 
 As you can see here, I have built several NFT/Blockchain projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E games(dice, crash, jackpot, coinflip, slot, etc). All of repos are under private status.
 
-<!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
+
+<h3><u><strong><i>Meegos NFT Marketplace</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-Multiple Factor Rewards Staking program for Shred NFT collections
+This is NFT marketplace project, collection of 10,000 characters carefully handcrafted with distinct personalities and emotions.
 
-- Staking Link: <a href="https://www.shreddedapes-staking.io" target="_blank">Shredded Staking</a>
-  - By staking Shredded Ape, you are sending him to our private gym on the moon. For each day your ape is working out, he'll be getting a paid in $WHEY. It's up to you to decide for how long you want to send your apes to the gym - you can cancel the staking and receive earned rewards at any given time.
-  - AMOUNT EARNED: 10 $WHEY / Ape staked / Day. Staking 3 or more apes will multiply the amount of $WHEY earned by x1.25
-- Original Link: <a href="https://shreddedapes.io" target="_blank">Shredded Apes<a/>
-- Github repo: <a href="https://github.com/best-lucky1030/Shred_NFT_Staking" target="_blank">Shred_NFT_Staking</a>
 
-<h3><u><strong><i>Goblin Army</i></strong></u> &nbsp;(Solana)</h3>
+<img align="right" width="300px" src="https://github.com/venture1981/NFT-Projects-Overview/assets/89365150/0702f36a-f77b-4208-8b7b-4bf801e55709.png">
+
+You've encountered cute characters before. You've also come across badass characters. But the Meegos? You will not stop adoring their delightful blend of mischief and badassery.
+
+Our goal was to create characters who aren't striving to be cute or demanding your affection, yet you'll love them anyway.
+I attended this project as fullstack developer and I used Next.js and Wagmi for this.
+
+- Live: <a href="https://www.meegos.io">Meegos.io</a>
+- Discord: <a href="https://discord.gg/blocksmithlabs">Meegos</a>
+
+
+<h3><u><strong><i>Cardano Solt Game</i></strong></u> &nbsp;(Cardano)</h3>
 <hr />
 
-Stake Goblin NFTs on Solana using Rust/React and Web3. Staked NFTs are locked in 15 days.
+This is NFT marketplace project, collection of 10,000 characters carefully handcrafted with distinct personalities and emotions.
 
-- Staking Link: <a href="https://stake.goblinarmy.io" target="_blank">Staking Goblin</a>
-- Original Link: <a href="https://goblinarmy.io" target="_blank">Goblin Army</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Goblin-Solana-NFT-Staking" target="_blank">Goblin-Solana-NFT-Staking</a>
-  
-<h3><u><strong><i>BarnYard</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
+<img align="right" width="300px" src="https://github.com/venture1981/NFT-Projects-Overview/assets/89365150/afb9d242-a608-42aa-9ef3-eb7a6c1dc2dd.png">
 
-Solana Multi Collection NFT staking
+You've encountered cute characters before. You've also come across badass characters. But the Meegos? You will not stop adoring their delightful blend of mischief and badassery.
 
-- Staking Link: <a href="https://barnyard-staking.vercel.app/" target="_blank">Barnyard Staking</a>
-  - Farmers and animals will act as multipliers for token generation when staking. Rarity of your NFTs, and amount staked will affect the multiplier!
-  - you will be able to stake your farm (at least one NFT from each collection) to start earning our project's own token($WHEAT) which will be used for gameplay in season 2. The more quantity of farmers/animals as well as higher rarities will generate you more tokens.
-  - Staking will be limited to 3 farmers and 3 animals per land plot.
-  - You will need to pay a 20% tax on each harvest to the bandits to harvest your wheat, or you can risk harvesting all your wheat (with a chance to lose all to bandits) but you will need to have staked for at least 3 days.
-- Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
-- Github repo: <a href="https://github.com/best-lucky1030/BCBY-NFT-staking" target="_blank">BCBY Staking</a> -->
+Our goal was to create characters who aren't striving to be cute or demanding your affection, yet you'll love them anyway.
+I attended this project as fullstack developer and I used Next.js and Wagmi for this.
+
+- Live: <a href="https://www.meegos.io">Meegos.io</a>
+- Discord: <a href="https://discord.gg/blocksmithlabs">Meegos</a>
 
 
 
