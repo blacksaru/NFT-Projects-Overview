@@ -23,17 +23,15 @@ I attended this project as fullstack developer and I used Next.js and Wagmi for 
 <h3><u><strong><i>Cardano Solt Game</i></strong></u> &nbsp;(Cardano)</h3>
 <hr />
 
-This is NFT marketplace project, collection of 10,000 characters carefully handcrafted with distinct personalities and emotions.
+This is web3 Play-To-Earn Game (slot) based on Cardano blockchain network.
 
 <img align="right" width="300px" src="https://github.com/venture1981/NFT-Projects-Overview/assets/89365150/afb9d242-a608-42aa-9ef3-eb7a6c1dc2dd.png">
+Users can enjoy this game using various Cardano tokens like ADA cardano native token and other Cardano tokens.
+Greetings, space explorers of NEBULA! We're excited to announce that we've launched a brand new VIP area on the NEBULA site, designed exclusively for our dedicated members who are passionate about the wonders of the universe.
 
-You've encountered cute characters before. You've also come across badass characters. But the Meegos? You will not stop adoring their delightful blend of mischief and badassery.
-
-Our goal was to create characters who aren't striving to be cute or demanding your affection, yet you'll love them anyway.
-I attended this project as fullstack developer and I used Next.js and Wagmi for this.
-
-- Live: <a href="https://www.meegos.io">Meegos.io</a>
-- Discord: <a href="https://discord.gg/blocksmithlabs">Meegos</a>
+Attended this project as a fullstack blockchain developer.
+- Live: <a href="https://www.spacerace.site">Spacerace</a>
+- Discord: <a href="https://discord.gg/zFkrnNEe">Discord of Nebula</a>
 
 
 
