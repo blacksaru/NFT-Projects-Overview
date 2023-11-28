@@ -6,6 +6,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 <h3><u><strong><i>Meegos NFT Marketplace</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
+
 This is NFT marketplace project, collection of 10,000 characters carefully handcrafted with distinct personalities and emotions.
 
 
