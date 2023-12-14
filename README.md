@@ -7,8 +7,7 @@ As you can see here, I have built several NFT/Blockchain projects including mint
 <hr />
 
 
-This is NFT marketplace project, collection of 10,000 characters carefully handcrafted with distinct personalities and emotions.
-
+This is NFT marketplace project,collection of 10,000 characters carefully handcrafted with distinct personalities and emotions.
 
 <img align="right" width="300px" src="https://github.com/venture1981/NFT-Projects-Overview/assets/89365150/0702f36a-f77b-4208-8b7b-4bf801e55709.png">
 
