@@ -31,6 +31,7 @@ Greetings, space explorers of NEBULA! We're excited to announce that we've launc
 
 Attended this project as a fullstack blockchain developer.
 - Live: <a href="https://www.spacerace.site">Spacerace</a>
+- Github repo: <a href="https://github.com/venture1981/spacerace">spacerace</a>
 - Discord: <a href="https://discord.gg/zFkrnNEe">Discord of Nebula</a>
 
 
